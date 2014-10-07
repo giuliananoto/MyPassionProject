@@ -2,3 +2,20 @@ body {
 	
 	background: #CCFFFF;
 }
+
+#paragraph1 {
+
+	background-color: #CC6666;
+}
+
+h2 {
+	text-align: center;
+}
+
+.fifty {
+	display: inline-block;
+}
+
+.pictures {
+	display: inline-block;
+}
